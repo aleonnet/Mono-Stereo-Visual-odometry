@@ -3,7 +3,7 @@ This is the implementation of Visual Odometry using the stereo image sequence fr
 
 Visual Odometry in action: 
 (https://github.com/aykatpatal/Visual-Odometry/blob/master/stereo/tn.png)
-
+![](gif.gif)
 
 Link to dataset - https://s3.eu-central-1.amazonaws.com/avg-kitti/raw_data/2011_09_28_drive_0001/2011_09_28_drive_0001_sync.zip
 
